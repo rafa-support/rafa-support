@@ -4,4 +4,4 @@
 - 💞️ Open to collaborating on open-source projects focused on software tools, IT solutions, or accessible tech.  
 - 📫 Reach me: **dairo.baldovino.p@gmail.com** | [LinkedIn](https://www.linkedin.com/in/dairo-rafael-baldovino-perez-181882307)  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I enjoy solving "impossible" problems and exploring the synergy between music and technology. 🎧💻  
+- ⚡ Fun fact: Soporte Multiplataforma: Windows, Mac, Linux | Desde 2017 aplicando diagnóstico analítico para soluciones precisas en reparación.  
