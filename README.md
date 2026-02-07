@@ -26,5 +26,5 @@ I am a professional focused on **IT Support** and **Database Maintenance**, curr
 
 ### 📫 Connect with Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](TU_LINK_DE_LINKEDIN_AQUI)
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](www.linkedin.com/in/dairo-rafael-baldovino-pérez-181882307)
 [<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">](mailto:dairo.baldovino.p@gmail.com)
